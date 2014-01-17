@@ -5,3 +5,4 @@ This is a very simple example of a working (barely) feed reader built using Embe
 
 It is based on the [Ember starter kit](https://github.com/emberjs/starter-kit).
 
+See a jsbin [demo](http://emberjs.jsbin.com/eLOQAKe/1/edit)
